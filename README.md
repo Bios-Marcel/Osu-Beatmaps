@@ -1,6 +1,7 @@
 # Osu-Beatmaps
 
-This is a collection of all beatmaps that I have made. Everyone is free to contribute to these maps under the terms stated in the [license](LICENSE).
+This is a collection of all beatmaps that I have made.
+Everyone is free to contribute to these maps under the terms stated in the [license](LICENSE).
 
 ## You are a player
 
@@ -34,3 +35,19 @@ If you want to fix timings, improve the map layout or whatever, follow these ste
 
 The song folders always contain a sub-directory called `source` which contains all single files.
 Next to the `source` folder is a `.osz` file containing the compiled map.
+
+## Available Beatmaps
+
+#### Syntact - Shallow
+
+[DOWNLOAD](https://raw.githubusercontent.com/Bios-Marcel/Osu-Beatmaps/master/Syntact-Shallow/Syntact-Shallow.osz)
+
+**Music**: [Syntact - Shallow](https://www.youtube.com/watch?v=Ma18w-tuj3U)
+**Background image**: [Early morning light shed](https://www.publicdomainpictures.net/en/view-image.php?image=106128&picture=early-morning-light-shed)
+**Difficulties**: Hard
+**Length**: 3:40
+**Stars**: 3.0X
+**CS**: 6
+**AR**: 8
+**OD**: 7
+**HP**: 7
