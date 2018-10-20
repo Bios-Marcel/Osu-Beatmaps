@@ -43,11 +43,19 @@ Next to the `source` folder is a `.osz` file containing the compiled map.
 [DOWNLOAD](https://raw.githubusercontent.com/Bios-Marcel/Osu-Beatmaps/master/Syntact-Shallow/Syntact-Shallow.osz)
 
 **Music**: [Syntact - Shallow](https://www.youtube.com/watch?v=Ma18w-tuj3U)
+
 **Background image**: [Early morning light shed](https://www.publicdomainpictures.net/en/view-image.php?image=106128&picture=early-morning-light-shed)
+
 **Difficulties**: Hard
+
 **Length**: 3:40
+
 **Stars**: 3.0X
+
 **CS**: 6
+
 **AR**: 8
+
 **OD**: 7
+
 **HP**: 7
